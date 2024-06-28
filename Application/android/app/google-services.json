@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130875652767",
+    "project_id": "ai-connectcar",
+    "storage_bucket": "ai-connectcar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130875652767:android:52906add7219c66c4880aa",
+        "android_client_info": {
+          "package_name": "com.konkukbulls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAON0TK6X2Cda0S6YyH4hrKY_V66dBvzd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
